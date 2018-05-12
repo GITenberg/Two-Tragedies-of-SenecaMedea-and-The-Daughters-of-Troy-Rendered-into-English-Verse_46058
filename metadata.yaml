@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1308
     wikipedia: http://en.wikipedia.org/wiki/Seneca_the_Younger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46058#Two-Tragedies-of-SenecaMedea-and-The-Daughters-of-Troy-Rendered-into-English-Verse
 gutenberg_issued: '2014-06-21'
 gutenberg_type: Text
 identifiers:
