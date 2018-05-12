@@ -1,0 +1,43 @@
+_repo: Two-Tragedies-of-SenecaMedea-and-The-Daughters-of-Troy-Rendered-into-English-Verse_46058
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Harris, Ella Isabel
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '43594'
+    url: http://www.gutenberg.org/2009/agents/43594
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seneca, Lucius Annaeus
+    aliases:
+    - Annaeus Seneca, Lucius
+    - Seneca, L. A. (Lucius Annaeus)
+    - Seneca, Annaeus
+    deathdate: 65
+    gutenberg_agent_id: '1308'
+    url: http://www.gutenberg.org/2009/agents/1308
+    wikipedia: http://en.wikipedia.org/wiki/Seneca_the_Younger
+description: ''
+gutenberg_issued: '2014-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46058'
+  lccn: '99004600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medea, consort of Aegeus, King of Athens (Mythological character) -- Drama'
+- !lcsh 'Hecuba, Queen of Troy -- Drama'
+- !lcc 'PA'
+- !lcsh 'Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D. -- Translations into
+  English'
+- !lcsh 'Trojan War -- Drama'
+title: "Two Tragedies of Seneca: Medea and The Daughters of Troy\r\nRendered into\
+  \ English Verse"
+url: http://www.gutenberg.org/ebooks/46058
